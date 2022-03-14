@@ -1,3 +1,4 @@
+## this is the version that is on github.  
 ## initial event that starts the cascade (i.e. the immigrant)
 ## mark = 1000 at time t=0
 event <- c(mark = 1000, time = 0)
